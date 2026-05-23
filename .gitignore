@@ -1,0 +1,10 @@
+# Deal Advisor workspace — client data (confidential)
+deal_advisor_workspace/mpm_data/
+deal_advisor_workspace/mpm_db/task.json
+
+# Keep demo outputs
+!deal_advisor_workspace/mpm_db/mandala_prima_makmur_deal_memo.md
+!deal_advisor_workspace/mpm_db/mandala_prima_makmur_deal_memo.pdf
+!deal_advisor_workspace/mpm_db/generate_pdf.py
+!deal_advisor_workspace/run_mpm.py
+.git-rewrite/
