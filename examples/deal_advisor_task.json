@@ -1,0 +1,10 @@
+{
+  "target": "Perplexity AI",
+  "sector": "AI search and answer engine",
+  "deal_type": "startup",
+  "research_depth": "deep",
+  "investment_question": "Should we invest, partner, or monitor?",
+  "regions": ["US", "Global", "SEA"],
+  "comparables": ["Google", "OpenAI SearchGPT", "You.com", "Genspark", "Kagi"],
+  "custom_context": "AI growth, enterprise demand, API, partnerships, funding, users, competitive market, regulatory and copyright risk"
+}
